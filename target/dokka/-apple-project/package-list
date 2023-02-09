@@ -1,0 +1,144 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:Core.API////PointingToDeclaration/-apple-project/Core.API/index.html
+$dokka.location:Core.API/API.Companion///PointingToDeclaration/-apple-project/Core.API/-a-p-i/-companion/index.html
+$dokka.location:Core.API/API.Companion/APIFactory/#/PointingToDeclaration/-apple-project/Core.API/-a-p-i/-companion/-a-p-i-factory.html
+$dokka.location:Core.API/API///PointingToDeclaration/-apple-project/Core.API/-a-p-i/index.html
+$dokka.location:Core.API/API/endpoints/#/PointingToDeclaration/-apple-project/Core.API/-a-p-i/endpoints.html
+$dokka.location:Core.API/MessageAPI///PointingToDeclaration/-apple-project/Core.API/-message-a-p-i/index.html
+$dokka.location:Core.API/MessageAPI/endpoints/#/PointingToDeclaration/-apple-project/Core.API/-message-a-p-i/endpoints.html
+$dokka.location:Core.API/UserAPI///PointingToDeclaration/-apple-project/Core.API/-user-a-p-i/index.html
+$dokka.location:Core.API/UserAPI/endpoints/#/PointingToDeclaration/-apple-project/Core.API/-user-a-p-i/endpoints.html
+$dokka.location:Core.Controller.Guide////PointingToDeclaration/-apple-project/Core.Controller.Guide/index.html
+$dokka.location:Core.Controller.Guide/MessageOperations///PointingToDeclaration/-apple-project/Core.Controller.Guide/-message-operations/index.html
+$dokka.location:Core.Controller.Guide/MessageOperations/deleteMessage/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-message-operations/delete-message.html
+$dokka.location:Core.Controller.Guide/MessageOperations/deleteMessages/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-message-operations/delete-messages.html
+$dokka.location:Core.Controller.Guide/MessageOperations/getMessage/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-message-operations/get-message.html
+$dokka.location:Core.Controller.Guide/MessageOperations/getMessages/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-message-operations/get-messages.html
+$dokka.location:Core.Controller.Guide/MessageOperations/saveMessage/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-message-operations/save-message.html
+$dokka.location:Core.Controller.Guide/MessageOperations/updateMessage/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-message-operations/update-message.html
+$dokka.location:Core.Controller.Guide/UserOperations///PointingToDeclaration/-apple-project/Core.Controller.Guide/-user-operations/index.html
+$dokka.location:Core.Controller.Guide/UserOperations/addUser/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-user-operations/add-user.html
+$dokka.location:Core.Controller.Guide/UserOperations/deleteUser/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-user-operations/delete-user.html
+$dokka.location:Core.Controller.Guide/UserOperations/getUser/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-user-operations/get-user.html
+$dokka.location:Core.Controller.Guide/UserOperations/getUserById/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-user-operations/get-user-by-id.html
+$dokka.location:Core.Controller.Guide/UserOperations/getUsers/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-user-operations/get-users.html
+$dokka.location:Core.Controller.Guide/UserOperations/updateUser/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller.Guide/-user-operations/update-user.html
+$dokka.location:Core.Controller////PointingToDeclaration/-apple-project/Core.Controller/index.html
+$dokka.location:Core.Controller/MessageController///PointingToDeclaration/-apple-project/Core.Controller/-message-controller/index.html
+$dokka.location:Core.Controller/MessageController/deleteMessage/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-message-controller/delete-message.html
+$dokka.location:Core.Controller/MessageController/deleteMessages/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-message-controller/delete-messages.html
+$dokka.location:Core.Controller/MessageController/getMessage/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-message-controller/get-message.html
+$dokka.location:Core.Controller/MessageController/getMessages/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-message-controller/get-messages.html
+$dokka.location:Core.Controller/MessageController/saveMessage/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-message-controller/save-message.html
+$dokka.location:Core.Controller/MessageController/updateMessage/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-message-controller/update-message.html
+$dokka.location:Core.Controller/UserController///PointingToDeclaration/-apple-project/Core.Controller/-user-controller/index.html
+$dokka.location:Core.Controller/UserController/addUser/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-user-controller/add-user.html
+$dokka.location:Core.Controller/UserController/deleteUser/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-user-controller/delete-user.html
+$dokka.location:Core.Controller/UserController/getUser/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-user-controller/get-user.html
+$dokka.location:Core.Controller/UserController/getUserById/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-user-controller/get-user-by-id.html
+$dokka.location:Core.Controller/UserController/getUsers/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-user-controller/get-users.html
+$dokka.location:Core.Controller/UserController/updateUser/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Core.Controller/-user-controller/update-user.html
+$dokka.location:Core.Model.PostgreSQL////PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/index.html
+$dokka.location:Core.Model.PostgreSQL/Messages///PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-messages/index.html
+$dokka.location:Core.Model.PostgreSQL/Messages/created/#/PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-messages/created.html
+$dokka.location:Core.Model.PostgreSQL/Messages/id/#/PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-messages/id.html
+$dokka.location:Core.Model.PostgreSQL/Messages/text/#/PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-messages/text.html
+$dokka.location:Core.Model.PostgreSQL/Messages/userId/#/PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-messages/user-id.html
+$dokka.location:Core.Model.PostgreSQL/Users///PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-users/index.html
+$dokka.location:Core.Model.PostgreSQL/Users/created/#/PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-users/created.html
+$dokka.location:Core.Model.PostgreSQL/Users/email/#/PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-users/email.html
+$dokka.location:Core.Model.PostgreSQL/Users/id/#/PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-users/id.html
+$dokka.location:Core.Model.PostgreSQL/Users/password/#/PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-users/password.html
+$dokka.location:Core.Model.PostgreSQL/Users/username/#/PointingToDeclaration/-apple-project/Core.Model.PostgreSQL/-users/username.html
+$dokka.location:Core.Model.Repository.Guide////PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/index.html
+$dokka.location:Core.Model.Repository.Guide/MessageDAO_Operations///PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-message-d-a-o_-operations/index.html
+$dokka.location:Core.Model.Repository.Guide/MessageDAO_Operations/deleteMessage/#kotlin.Int/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-message-d-a-o_-operations/delete-message.html
+$dokka.location:Core.Model.Repository.Guide/MessageDAO_Operations/deleteMessages/#kotlin.Int/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-message-d-a-o_-operations/delete-messages.html
+$dokka.location:Core.Model.Repository.Guide/MessageDAO_Operations/getAll/#/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-message-d-a-o_-operations/get-all.html
+$dokka.location:Core.Model.Repository.Guide/MessageDAO_Operations/getMessage/#kotlin.Int/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-message-d-a-o_-operations/get-message.html
+$dokka.location:Core.Model.Repository.Guide/MessageDAO_Operations/getMessages/#kotlin.Int/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-message-d-a-o_-operations/get-messages.html
+$dokka.location:Core.Model.Repository.Guide/MessageDAO_Operations/saveMessage/#Core.Model.Message/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-message-d-a-o_-operations/save-message.html
+$dokka.location:Core.Model.Repository.Guide/MessageDAO_Operations/updateMessage/#kotlin.Int#Core.Model.Message/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-message-d-a-o_-operations/update-message.html
+$dokka.location:Core.Model.Repository.Guide/UserDAO_Operations///PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-user-d-a-o_-operations/index.html
+$dokka.location:Core.Model.Repository.Guide/UserDAO_Operations/deleteUser/#kotlin.String/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-user-d-a-o_-operations/delete-user.html
+$dokka.location:Core.Model.Repository.Guide/UserDAO_Operations/getAllUser/#/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-user-d-a-o_-operations/get-all-user.html
+$dokka.location:Core.Model.Repository.Guide/UserDAO_Operations/getUser/#kotlin.Int/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-user-d-a-o_-operations/get-user.html
+$dokka.location:Core.Model.Repository.Guide/UserDAO_Operations/getUser/#kotlin.String/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-user-d-a-o_-operations/get-user.html
+$dokka.location:Core.Model.Repository.Guide/UserDAO_Operations/saveUser/#Core.Model.User/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-user-d-a-o_-operations/save-user.html
+$dokka.location:Core.Model.Repository.Guide/UserDAO_Operations/updateUser/#kotlin.String#Core.Model.User/PointingToDeclaration/-apple-project/Core.Model.Repository.Guide/-user-d-a-o_-operations/update-user.html
+$dokka.location:Core.Model.Repository////PointingToDeclaration/-apple-project/Core.Model.Repository/index.html
+$dokka.location:Core.Model.Repository/MessageDAO///PointingToDeclaration/-apple-project/Core.Model.Repository/-message-d-a-o/index.html
+$dokka.location:Core.Model.Repository/MessageDAO/MessageDAO/#/PointingToDeclaration/-apple-project/Core.Model.Repository/-message-d-a-o/-message-d-a-o.html
+$dokka.location:Core.Model.Repository/MessageDAO/deleteMessage/#kotlin.Int/PointingToDeclaration/-apple-project/Core.Model.Repository/-message-d-a-o/delete-message.html
+$dokka.location:Core.Model.Repository/MessageDAO/deleteMessages/#kotlin.Int/PointingToDeclaration/-apple-project/Core.Model.Repository/-message-d-a-o/delete-messages.html
+$dokka.location:Core.Model.Repository/MessageDAO/getAll/#/PointingToDeclaration/-apple-project/Core.Model.Repository/-message-d-a-o/get-all.html
+$dokka.location:Core.Model.Repository/MessageDAO/getMessage/#kotlin.Int/PointingToDeclaration/-apple-project/Core.Model.Repository/-message-d-a-o/get-message.html
+$dokka.location:Core.Model.Repository/MessageDAO/getMessages/#kotlin.Int/PointingToDeclaration/-apple-project/Core.Model.Repository/-message-d-a-o/get-messages.html
+$dokka.location:Core.Model.Repository/MessageDAO/saveMessage/#Core.Model.Message/PointingToDeclaration/-apple-project/Core.Model.Repository/-message-d-a-o/save-message.html
+$dokka.location:Core.Model.Repository/MessageDAO/updateMessage/#kotlin.Int#Core.Model.Message/PointingToDeclaration/-apple-project/Core.Model.Repository/-message-d-a-o/update-message.html
+$dokka.location:Core.Model.Repository/UserDAO///PointingToDeclaration/-apple-project/Core.Model.Repository/-user-d-a-o/index.html
+$dokka.location:Core.Model.Repository/UserDAO/UserDAO/#/PointingToDeclaration/-apple-project/Core.Model.Repository/-user-d-a-o/-user-d-a-o.html
+$dokka.location:Core.Model.Repository/UserDAO/deleteUser/#kotlin.String/PointingToDeclaration/-apple-project/Core.Model.Repository/-user-d-a-o/delete-user.html
+$dokka.location:Core.Model.Repository/UserDAO/getAllUser/#/PointingToDeclaration/-apple-project/Core.Model.Repository/-user-d-a-o/get-all-user.html
+$dokka.location:Core.Model.Repository/UserDAO/getUser/#kotlin.Int/PointingToDeclaration/-apple-project/Core.Model.Repository/-user-d-a-o/get-user.html
+$dokka.location:Core.Model.Repository/UserDAO/getUser/#kotlin.String/PointingToDeclaration/-apple-project/Core.Model.Repository/-user-d-a-o/get-user.html
+$dokka.location:Core.Model.Repository/UserDAO/saveUser/#Core.Model.User/PointingToDeclaration/-apple-project/Core.Model.Repository/-user-d-a-o/save-user.html
+$dokka.location:Core.Model.Repository/UserDAO/updateUser/#kotlin.String#Core.Model.User/PointingToDeclaration/-apple-project/Core.Model.Repository/-user-d-a-o/update-user.html
+$dokka.location:Core.Model////PointingToDeclaration/-apple-project/Core.Model/index.html
+$dokka.location:Core.Model/Message///PointingToDeclaration/-apple-project/Core.Model/-message/index.html
+$dokka.location:Core.Model/Message/Message/#kotlin.Int#kotlin.String#kotlin.Int#org.joda.time.DateTime/PointingToDeclaration/-apple-project/Core.Model/-message/-message.html
+$dokka.location:Core.Model/Message/created/#/PointingToDeclaration/-apple-project/Core.Model/-message/created.html
+$dokka.location:Core.Model/Message/id/#/PointingToDeclaration/-apple-project/Core.Model/-message/id.html
+$dokka.location:Core.Model/Message/text/#/PointingToDeclaration/-apple-project/Core.Model/-message/text.html
+$dokka.location:Core.Model/Message/userId/#/PointingToDeclaration/-apple-project/Core.Model/-message/user-id.html
+$dokka.location:Core.Model/User///PointingToDeclaration/-apple-project/Core.Model/-user/index.html
+$dokka.location:Core.Model/User/User/#kotlin.Int#kotlin.String#kotlin.String#kotlin.String#org.joda.time.DateTime/PointingToDeclaration/-apple-project/Core.Model/-user/-user.html
+$dokka.location:Core.Model/User/created/#/PointingToDeclaration/-apple-project/Core.Model/-user/created.html
+$dokka.location:Core.Model/User/email/#/PointingToDeclaration/-apple-project/Core.Model/-user/email.html
+$dokka.location:Core.Model/User/id/#/PointingToDeclaration/-apple-project/Core.Model/-user/id.html
+$dokka.location:Core.Model/User/password/#/PointingToDeclaration/-apple-project/Core.Model/-user/password.html
+$dokka.location:Core.Model/User/username/#/PointingToDeclaration/-apple-project/Core.Model/-user/username.html
+$dokka.location:Core.Model/errorResponse///PointingToDeclaration/-apple-project/Core.Model/error-response/index.html
+$dokka.location:Core.Model/errorResponse/details/#/PointingToDeclaration/-apple-project/Core.Model/error-response/details.html
+$dokka.location:Core.Model/errorResponse/errorResponse/#kotlin.String#kotlin.Int#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.String]?/PointingToDeclaration/-apple-project/Core.Model/error-response/error-response.html
+$dokka.location:Core.Model/errorResponse/status/#/PointingToDeclaration/-apple-project/Core.Model/error-response/status.html
+$dokka.location:Core.Model/errorResponse/title/#/PointingToDeclaration/-apple-project/Core.Model/error-response/title.html
+$dokka.location:Core.Model/errorResponse/type/#/PointingToDeclaration/-apple-project/Core.Model/error-response/type.html
+$dokka.location:Core////PointingToDeclaration/-apple-project/Core/index.html
+$dokka.location:Core//main/#/PointingToDeclaration/-apple-project/Core/main.html
+$dokka.location:Services////PointingToDeclaration/-apple-project/Services/index.html
+$dokka.location:Services//configureOpenApi/#/PointingToDeclaration/-apple-project/Services/configure-open-api.html
+$dokka.location:Services/DBConfig///PointingToDeclaration/-apple-project/Services/-d-b-config/index.html
+$dokka.location:Services/DBConfig/DBConfig/#/PointingToDeclaration/-apple-project/Services/-d-b-config/-d-b-config.html
+$dokka.location:Services/DBConfig/getDbConnection/#/PointingToDeclaration/-apple-project/Services/-d-b-config/get-db-connection.html
+$dokka.location:Services/javalinConfig///PointingToDeclaration/-apple-project/Services/javalin-config/index.html
+$dokka.location:Services/javalinConfig/javalinConfig/#/PointingToDeclaration/-apple-project/Services/javalin-config/javalin-config.html
+$dokka.location:Services/javalinConfig/startJavalinService/#/PointingToDeclaration/-apple-project/Services/javalin-config/start-javalin-service.html
+$dokka.location:Utils////PointingToDeclaration/-apple-project/Utils/index.html
+$dokka.location:Utils//mapToMessage/#org.jetbrains.exposed.sql.ResultRow/PointingToDeclaration/-apple-project/Utils/map-to-message.html
+$dokka.location:Utils//mapToUser/#org.jetbrains.exposed.sql.ResultRow/PointingToDeclaration/-apple-project/Utils/map-to-user.html
+$dokka.location:Utils/JSONUtils///PointingToDeclaration/-apple-project/Utils/-j-s-o-n-utils/index.html
+$dokka.location:Utils/JSONUtils/jsonNodeToObject/#kong.unirest.HttpResponse[kong.unirest.JsonNode]/PointingToDeclaration/-apple-project/Utils/-j-s-o-n-utils/json-node-to-object.html
+$dokka.location:Utils/JSONUtils/jsonObjectMapper/#/PointingToDeclaration/-apple-project/Utils/-j-s-o-n-utils/json-object-mapper.html
+$dokka.location:Utils/JSONUtils/jsonToObject/#kotlin.String/PointingToDeclaration/-apple-project/Utils/-j-s-o-n-utils/json-to-object.html
+$dokka.location:Utils/Params///PointingToDeclaration/-apple-project/Utils/-params/index.html
+$dokka.location:Utils/Params/MSG_ID/#/PointingToDeclaration/-apple-project/Utils/-params/-m-s-g_-i-d.html
+$dokka.location:Utils/Params/USER_ID/#/PointingToDeclaration/-apple-project/Utils/-params/-u-s-e-r_-i-d.html
+$dokka.location:Utils/Params/USER_MAIL/#/PointingToDeclaration/-apple-project/Utils/-params/-u-s-e-r_-m-a-i-l.html
+$dokka.location:Utils/Params/USER_NAME/#/PointingToDeclaration/-apple-project/Utils/-params/-u-s-e-r_-n-a-m-e.html
+$dokka.location:Utils/Params/parseMsgId/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Utils/-params/parse-msg-id.html
+$dokka.location:Utils/Params/parseUserEmail/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Utils/-params/parse-user-email.html
+$dokka.location:Utils/Params/parseUserId/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Utils/-params/parse-user-id.html
+$dokka.location:Utils/Params/parseUserName/#io.javalin.http.Context/PointingToDeclaration/-apple-project/Utils/-params/parse-user-name.html
+Core
+Core.API
+Core.Controller
+Core.Controller.Guide
+Core.Model
+Core.Model.PostgreSQL
+Core.Model.Repository
+Core.Model.Repository.Guide
+Services
+Utils
+
